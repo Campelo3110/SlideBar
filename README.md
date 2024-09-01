@@ -40,7 +40,7 @@ Você pode personalizar as cores, ícones e seções de menu editando o arquivo 
 
 ## 📸 Capturas de Tela
 
-![SlideBar Screenshot](url_da_screenshot)
+![SlideBar Screenshot](https://imgur.com/QAqGBal.gif)
 
 ## 📝 Licença
 
